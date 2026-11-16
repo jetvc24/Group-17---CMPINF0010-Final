@@ -1,5 +1,4 @@
 # Group-17---CMPINF0010-Final
-Group Name: The Data Detectives
 
 Group Members: 
 Jet CaraCappa - JVC53@pitt.edu
